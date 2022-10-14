@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Зачем разработчику блог?
-date:       2022-10-12
+title:      Why does a developer need a blog
+date:       2022-10-14
 summary:    Зачем разработчику блог?
 categories: jekyll pixyll
 ---
