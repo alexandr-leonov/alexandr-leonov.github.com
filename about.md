@@ -5,6 +5,8 @@ permalink: /about/
 tags: about
 ---
 
+* *
+
 ## Вводная
 
 Меня зовут - Александр.
