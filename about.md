@@ -20,7 +20,7 @@ tags: about
 
 ## Опыт работы
 
-###[USETECH](https://usetech.ru) - Руководитель группы разработки
+#### [USETECH](https://usetech.ru) - Руководитель группы разработки
 aпрель 2022 - настоящее время
 
 Тим лид на проекте крупного и социально значимого заказчика c high load, большими данными и надёжностью 999.
@@ -31,7 +31,7 @@ aпрель 2022 - настоящее время
 
 * * *
 
-###[USETECH](https://usetech.ru) - Разработчик
+#### [USETECH](https://usetech.ru) - Разработчик
 август 2021 - aпрель 2022
 
 Разработчик на проекте крупного и социально значимого заказчика c high load, большими данными и надёжностью 999.
@@ -40,7 +40,7 @@ aпрель 2022 - настоящее время
 
 * * *
 
-###[EPAM Systems](https://www.epam.com/) - Software Engineer
+#### [EPAM Systems](https://www.epam.com/) - Software Engineer
 октябрь 2020 – август 2021
 
 Проект: https://www.zoetis.com/
@@ -50,7 +50,7 @@ aпрель 2022 - настоящее время
 
 * * *
 
-###[KingBird](https://www.kingbird.ru) - Разработчик
+#### [KingBird](https://www.kingbird.ru) - Разработчик
 октябрь 2019 – октябрь 2020
 
 Проект: https://www.sportmaster.ru/
@@ -61,7 +61,7 @@ aпрель 2022 - настоящее время
 
 * * *
 
-###[Netcracker](https://www.netcracker.com) - Java Software Engineer
+#### [Netcracker](https://www.netcracker.com) - Java Software Engineer
 март 2019 - октябрь 2019
 
 Разработка новой функциональности и поддержка ERP-системы компании Netcracker.
@@ -70,7 +70,7 @@ aпрель 2022 - настоящее время
 
 * * *
 
-###[Netcracker](https://www.netcracker.com) - Junior Java Software Engineer
+#### [Netcracker](https://www.netcracker.com) - Junior Java Software Engineer
 cентябрь 2017 - март 2019
 
 Разработка новой функциональности и поддержка ERP-системы компании Netcracker.
