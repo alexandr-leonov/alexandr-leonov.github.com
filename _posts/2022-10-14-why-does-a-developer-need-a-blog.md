@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Зачем разработчику блог?
-date:       2022-10-14 19:13
+date:       2022-10-12
 summary:    Зачем разработчику блог?
 categories: jekyll pixyll
 ---
